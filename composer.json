@@ -1,0 +1,20 @@
+{
+    "name": "eloquage/laravel-actions-boost",
+    "description": "Laravel Actions Boost planning guidelines for AI agents.",
+    "license": "MIT",
+    "homepage": "https://github.com/eloquage/laravel-actions-boost",
+    "support": {
+        "issues": "https://github.com/eloquage/laravel-actions-boost/issues",
+        "source": "https://github.com/eloquage/laravel-actions-boost"
+    },
+    "authors": [
+        {
+            "name": "Miguel Enes",
+            "email": "me@miguelenes.com"
+        }
+    ],
+    "require": {
+        "filament/support": "^5.0",
+        "laravel/boost": "^1.8"
+    }
+}

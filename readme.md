@@ -1,7 +1,15 @@
 # Laravel Actions Boost
 
+![Laravel Actions Boost](art/banner.png)
+
 **A Laravel Boost extension that helps AI agents produce accurate, detailed
 implementation plans for applications using Lorisleiva Laravel Actions (2.x).**
+
+## Requirements
+
+- PHP 8.2 or later
+- Laravel Boost 1.8 or 2.x
+- Filament 5
 
 ## Setup
 
@@ -37,8 +45,8 @@ new password, confirmation). Add middleware auth for the route. Include tests
 that mock the action and assert validation/authorization failures.
 ```
 
-The agent will produce a detailed specification document ready for direct
-implementation, no guessing required.
+The guide helps the agent produce an implementation specification and asks for
+clarification when requirements leave important choices open.
 
 ## What's Included
 
